@@ -1,0 +1,7 @@
+pymongo
+pyrogram
+umongo
+tgcrypto
+requests
+marshmallow
+motor
